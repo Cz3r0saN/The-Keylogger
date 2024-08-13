@@ -5,7 +5,7 @@ Hello everyone Its Zer0 here today I am implementing an simple keylogger program
 The libraries I used were :
 
 ------------------------------------------------------------------------
-1. pynput
+1. pynput :
 Purpose: The pynput library allows you to control and monitor input devices such as keyboards and mice. It provides a simple interface to listen for events and simulate input.
 ------------------------------------------------------------------------
 
@@ -28,3 +28,15 @@ listener.join(): This method blocks the program from exiting and keeps the liste
 
 
 ----------------------------------------------------------------------------
+
+Usage : 
+
+> Locate the file in your system
+> run the command using python "python keylogger.py"
+> leave the script running ......
+> get the output in a file that is being save as output.txt
+
+-----------------------------------------------------------------------------
+
+ARIGATO !!! 🤞🤞✌️
+
